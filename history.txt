@@ -1,0 +1,11 @@
+commit c5b333aade512766843fc9bd4cb367096d77fd7d
+Author: mehtap <yildizm2012@gmail.com>
+Date:   Sun Jul 25 22:56:14 2021 +0200
+
+    ikinci commit mesajim
+
+commit 7bf9439b32528c7c6d58542dd16ab280b61f7af2
+Author: mehtap <yildizm2012@gmail.com>
+Date:   Sun Jul 25 22:53:47 2021 +0200
+
+    bu benim ilk commit mesajim
